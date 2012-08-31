@@ -1,4 +1,4 @@
- use common::sense;
+use common::sense;
 
 use Acme::DrunkenCockroach::Room;
 use Acme::DrunkenCockroach::Cockroach;
